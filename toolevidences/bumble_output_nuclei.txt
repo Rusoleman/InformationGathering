@@ -1,0 +1,35 @@
+[mx-fingerprint] [dns] [info] bumble.com [5 mailin1us.monopost.com.,5 mailin1eu.monopost.com.]
+[dmarc-detect] [dns] [info] _dmarc.bumble.com ["v=DMARC1; p=reject; pct=100; fo=1; rua=mailto:dmarc-rua@corp.badoo.com"]
+[txt-fingerprint] [dns] [info] bumble.com ["google-site-verification=cAE3aRSPaGrxU7N-rJw5O4APM62yLqvb8TLTX8hJNrk","google-site-verification=lNZiO6KN_WztgPDCPcQgUz5RimSqj01COtpBOnBS9WA","mailru-verification: c4d2d72602d6f569","google-site-verification=ohC5seycw-H7ZPPq3csVsqydCN5taaDzUfvXpp0A1ss","v=spf1 include:mail.zendesk.com ip4:31.222.64.0/20 ip4:159.253.176.0/21 -all","facebook-domain-verification=zkrfxt6s5z5jeli68o4wkxw3f16g4k","google-site-verification=Jhg7q3xSAR-558RAxnV2cXQTiJXyl5nNmRYdvhkGOyI"]
+[dns-saas-service-detection] [dns] [info] bumble.com
+[nameserver-fingerprint] [dns] [info] bumble.com [ns2.bumble.com.,ns4.bumble.com.,ns3.bumble.com.,ns1.bumble.com.,ns6.bumble.com.,ns5.bumble.com.]
+[addeventlistener-detect] [http] [info] https://bumble.com
+[httponly-cookie-detect] [http] [info] https://bumble.com
+[xss-deprecated-header] [http] [info] https://bumble.com [1; mode=block]
+[tech-detect:google-tag-manager] [http] [info] https://bumble.com
+[tech-detect:nginx] [http] [info] https://bumble.com
+[apple-app-site-association] [http] [info] https://bumble.com/.well-known/apple-app-site-association [54Z32M8L2C.com.moxco.bumble.dev4,8QRHA24EHD.com.moxco.bumble,8U63L82KCQ.com.moxco.bumble.enterprise,RPLQZXP536.com.moxco.bumble.dev,87V54RC58L.com.moxco.bumble.dev1,5A5626XPHN.com.moxco.bumble.dev3]
+[robots-txt] [http] [info] https://bumble.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://bumble.com/robots.txt
+[security-txt] [http] [info] https://bumble.com/.well-known/security.txt [ https://hackerone.com/bumble/reports/new]
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bumble.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bumble.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bumble.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bumble.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bumble.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://bumble.com
+[rdap-whois:domain] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [BUMBLE.COM]
+[rdap-whois:identifier] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [292]
+[rdap-whois:email] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [abusecomplaints@markmonitor.com]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [2023-06-24T09:19:43Z]
+[rdap-whois:raw] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [{"entities":[{"entities":[{"objectClassName":"entity","roles":["abuse"],"vcardArray":["vcard",[["version",{},"text","4.0"],["fn",{},"text",""],["tel",{"type":"voice"},"uri","tel:+1.2086851750"],["email",{},"text","abusecomplaints@markmonitor.com"]]]}],"handle":"292","objectClassName":"entity","publicIds":[{"identifier":"292","type":"IANA Registrar ID"}],"roles":["registrar"],"vcardArray":["vcard",[["version",{},"text","4.0"],["fn",{},"text","MarkMonitor Inc."]]]}],"events":[{"eventAction":"registration","eventDate":"1997-07-27T04:00:00Z"},{"eventAction":"expiration","eventDate":"2025-07-26T04:00:00Z"},{"eventAction":"last changed","eventDate":"2023-06-24T09:19:43Z"},{"eventAction":"last update of RDAP database","eventDate":"2023-10-04T18:06:34Z"}],"handle":"1942448_DOMAIN_COM-VRSN","ldhName":"BUMBLE.COM","links":[{"href":"https://rdap.verisign.com/com/v1/domain/BUMBLE.COM","rel":"self","type":"application/rdap+json","value":"https://rdap.verisign.com/com/v1/domain/BUMBLE.COM"},{"href":"https://rdap.markmonitor.com/rdap/domain/BUMBLE.COM","rel":"related","type":"application/rdap+json","value":"https://rdap.markmonitor.com/rdap/domain/BUMBLE.COM"}],"nameservers":[{"ldhName":"NS1.BUMBLE.COM","objectClassName":"nameserver"},{"ldhName":"NS2.BUMBLE.COM","objectClassName":"nameserver"},{"ldhName":"NS3.BUMBLE.COM","objectClassName":"nameserver"},{"ldhName":"NS4.BUMBLE.COM","objectClassName":"nameserver"},{"ldhName":"NS5.BUMBLE.COM","objectClassName":"nameserver"},{"ldhName":"NS6.BUMBLE.COM","objectClassName":"nameserver"}],"notices":[{"description":["Service subject to Terms of Use."],"links":[{"href":"https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml","type":"text/html"}],"title":"Terms of Use"},{"description":["For more information on domain status codes, please visit https://icann.org/epp"],"links":[{"href":"https://icann.org/epp","type":"text/html"}],"title":"Status Codes"},{"description":["URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"],"links":[{"href":"https://icann.org/wicf","type":"text/html"}],"title":"RDDS Inaccuracy Complaint Form"}],"objectClassName":"domain","rdapConformance":["rdap_level_0","icann_rdap_technical_implementation_guide_0","icann_rdap_response_profile_0"],"secureDNS":{"delegationSigned":false},"status":["client delete prohibited","client transfer prohibited","client update prohibited"]}]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [1997-07-27T04:00:00Z]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [2025-07-26T04:00:00Z]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [NS5.BUMBLE.COM,NS6.BUMBLE.COM,NS1.BUMBLE.COM,NS2.BUMBLE.COM,NS3.BUMBLE.COM,NS4.BUMBLE.COM]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/bumble.com [false]
+[missing-sri] [http] [info] https://bumble.com/ [https://us1.bumbcdn.com/i/aco/bumble.com/v2/-/moxie/new/js/libraries/jquery-3.6.0.min.88da75a691bb14e3e3d4.js,https://us1.bumbcdn.com/i/aco/bumble.com/v2/-/moxie/new/js/libraries/gelato.min.3704bdc3583e93172884.js,https://us1.bumbcdn.com/i/aco/bumble.com/v2/-/moxie/new/js/app.319980797d18cc957606.js,https://consent.bumble.com/unified/wrapperMessagingWithoutDetection.js]
+[waf-detect:nginxgeneric] [http] [info] https://bumble.com/
+[ssl-issuer] [ssl] [info] bumble.com:443 [Let's Encrypt]
+[ssl-dns-names] [ssl] [info] bumble.com:443 [*.bumble.com,bumble.com]
+[tls-version] [ssl] [info] bumble.com:443 [tls12]
+[tls-version] [ssl] [info] bumble.com:443 [tls13]
