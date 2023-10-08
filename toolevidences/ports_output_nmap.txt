@@ -1,0 +1,327 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-02 17:39 EDT
+Nmap scan report for blog.bumble.com (198.185.159.144)
+Host is up (0.054s latency).
+Other addresses for blog.bumble.com (not scanned): 198.49.23.144 198.49.23.145 198.185.159.145
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for r5y2gy824h6rdjjax3en.blog.bumble.com (198.185.159.176)
+Host is up (0.068s latency).
+Other addresses for r5y2gy824h6rdjjax3en.blog.bumble.com (not scanned): 198.49.23.176 198.49.23.177 198.185.159.177
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for amb.bumble.com (31.222.75.113)
+Host is up (0.091s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ub-lp.bumble.com (13.56.128.144)
+Host is up (0.063s latency).
+Other addresses for ub-lp.bumble.com (not scanned): 54.219.121.125
+rDNS record for 13.56.128.144: ec2-13-56-128-144.us-west-1.compute.amazonaws.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.dev.studio.bumble.com (172.217.15.19)
+Host is up (0.011s latency).
+Other addresses for www.dev.studio.bumble.com (not scanned): 2607:f8b0:4012:805::2013
+rDNS record for 172.217.15.19: qro01s18-in-f19.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eblgnwwk7jawlzh6bzg4.thebeehive.bumble.com (198.49.23.177)
+Host is up (0.061s latency).
+Other addresses for eblgnwwk7jawlzh6bzg4.thebeehive.bumble.com (not scanned): 198.185.159.177 198.185.159.176 198.49.23.176
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for thebeehive.bumble.com (198.49.23.144)
+Host is up (0.046s latency).
+Other addresses for thebeehive.bumble.com (not scanned): 198.49.23.145 198.185.159.145 198.185.159.144
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for s.bumble.com (31.222.73.208)
+Host is up (0.091s latency).
+rDNS record for 31.222.73.208: badoo.us
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for gew3.bumble.com (35.207.106.117)
+Host is up (0.16s latency).
+rDNS record for 35.207.106.117: 117.106.207.35.bc.googleusercontent.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eu1.bumble.com (31.222.67.113)
+Host is up (0.19s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for design-bumble.bumble.com (34.246.128.183)
+Host is up (0.16s latency).
+rDNS record for 34.246.128.183: ec2-34-246-128-183.eu-west-1.compute.amazonaws.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mshot.bumble.com (31.222.68.67)
+Host is up (0.18s latency).
+Not shown: 95 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+80/tcp   open   http
+443/tcp  open   https
+2121/tcp closed ccproxy-ftp
+8080/tcp closed http-proxy
+
+Nmap scan report for dev.studio.bumble.com (216.239.38.21)
+Host is up (0.0098s latency).
+Other addresses for dev.studio.bumble.com (not scanned): 216.239.34.21 216.239.32.21 216.239.36.21 2001:4860:4802:34::15 2001:4860:4802:32::15 2001:4860:4802:36::15 2001:4860:4802:38::15
+rDNS record for 216.239.38.21: any-in-2615.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for consent.bumble.com (65.9.121.11)
+Host is up (0.066s latency).
+Other addresses for consent.bumble.com (not scanned): 65.9.121.95 65.9.121.43 65.9.121.106
+rDNS record for 65.9.121.11: server-65-9-121-11.qro50.r.cloudfront.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for am1.bumble.com (31.222.70.21)
+Host is up (0.17s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.studio.bumble.com (142.251.34.51)
+Host is up (0.014s latency).
+Other addresses for www.studio.bumble.com (not scanned): 2607:f8b0:4012:821::2013
+rDNS record for 142.251.34.51: qro01s28-in-f19.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ir.bumble.com (162.159.130.11)
+Host is up (0.015s latency).
+Other addresses for ir.bumble.com (not scanned): 162.159.129.11 2606:4700:7::a29f:820b 2606:4700:7::a29f:810b
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for support.bumble.com (104.16.51.111)
+Host is up (0.068s latency).
+Other addresses for support.bumble.com (not scanned): 104.16.53.111
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for cdn.bumble.com (31.222.75.64)
+Host is up (0.089s latency).
+Other addresses for cdn.bumble.com (not scanned): 31.222.75.65
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for shot.bumble.com (159.253.176.102)
+Host is up (0.19s latency).
+rDNS record for 159.253.176.102: seu1.bumble.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for studio.bumble.com (216.239.32.21)
+Host is up (0.016s latency).
+Other addresses for studio.bumble.com (not scanned): 216.239.36.21 216.239.38.21 216.239.34.21 2001:4860:4802:34::15 2001:4860:4802:38::15 2001:4860:4802:32::15 2001:4860:4802:36::15
+rDNS record for 216.239.32.21: any-in-2015.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eam.bumble.com (31.222.75.113)
+Host is up (0.087s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mqa.bumble.com (31.222.73.208)
+Host is up (0.085s latency).
+rDNS record for 31.222.73.208: badoo.us
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for design-badoo.bumble.com (34.246.128.183)
+Host is up (0.16s latency).
+rDNS record for 34.246.128.183: ec2-34-246-128-183.eu-west-1.compute.amazonaws.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.blog.bumble.com (198.185.159.144)
+Host is up (0.058s latency).
+Other addresses for www.blog.bumble.com (not scanned): 198.49.23.144 198.49.23.145 198.185.159.145
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for toau10tix.bumble.com (31.222.68.67)
+Host is up (0.18s latency).
+Not shown: 95 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+80/tcp   open   http
+443/tcp  open   https
+2121/tcp closed ccproxy-ftp
+8080/tcp closed http-proxy
+
+Nmap scan report for city-guides.bumble.com (31.222.75.113)
+Host is up (0.086s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for design.bumble.com (34.246.128.183)
+Host is up (0.18s latency).
+rDNS record for 34.246.128.183: ec2-34-246-128-183.eu-west-1.compute.amazonaws.com
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.thebeehive.bumble.com (198.185.159.144)
+Host is up (0.064s latency).
+Other addresses for www.thebeehive.bumble.com (not scanned): 198.49.23.144 198.49.23.145 198.185.159.145
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bumble.com (31.222.75.113)
+Host is up (0.088s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for team.bumble.com (31.222.75.113)
+Host is up (0.093s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for france-love-guide.bumble.com (31.222.75.113)
+Host is up (0.087s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.lesgrandesfemmes.bumble.com (31.222.75.113)
+Host is up (0.088s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.bumble.com (31.222.75.113)
+Host is up (0.094s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for autoconfig.shop.bumble.com (31.222.75.113)
+Host is up (0.086s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for shop.bumble.com (31.222.75.113)
+Host is up (0.088s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for d2zh3kxlwenffrxx7pjc.lesgrandesfemmes.bumble.com (31.222.75.113)
+Host is up (0.090s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for casting-bachelor.shop.bumble.com (31.222.75.113)
+Host is up (0.087s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for us1.bumble.com (31.222.75.113)
+Host is up (0.087s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for honey.bumble.com (31.222.75.113)
+Host is up (0.094s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ololo.shop.bumble.com (31.222.75.113)
+Host is up (0.088s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 41 IP addresses (41 hosts up) scanned in 547.02 seconds

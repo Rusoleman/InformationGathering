@@ -1,0 +1,17 @@
+blog.bumble.com
+bumble.com
+cdn.bumble.com
+design.bumble.com
+ir.bumble.com
+jakarta.bumble.com
+ns1.bumble.com
+ns2.bumble.com
+ns3.bumble.com
+ns4.bumble.com
+ns5.bumble.com
+ns6.bumble.com
+s.bumble.com
+studio.bumble.com
+support.bumble.com
+thebeehive.bumble.com
+www.blog.bumble.com
